@@ -1,0 +1,7 @@
+- Aller sur le site web concerné
+- Inspecter
+- Cliquer sur "Réseau" ("Network")
+- Rafraichir la page
+- Nous pouvons voir (ou non) les différents éléments chargés par le navigateur
+- Cliquer sur le premier lien, souvent le fichier html
+- Puis dans Headers, et dans Request Headers, nous pouvons voir le User-Agent
